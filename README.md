@@ -1,7 +1,7 @@
 # cinematrix
 A media-sharing platform with robust streaming capabilities. Media files are stored on a Backblaze S3-compatible cloud storage, cached, and served via the Cloudflare CDN. 
 
-Because of private tokens cannot be shared in github, Cinematrix is forked
+Because of private tokens cannot be shared in github, Cinematrix is forked, with removing all history commits (because the commits contain token).
 ## Development
 This project use a custom-built Java scripting program (jpexec) to run the backend and frontend at the same time for development purposes. The script is private and not meant for public use.
 ### Windows
